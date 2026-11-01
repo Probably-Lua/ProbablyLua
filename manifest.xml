@@ -6,9 +6,13 @@
 
     <Author>Cain</Author>
 
-    <ModVersion>0.0.2</ModVersion>
+    <ModVersion>1.0.0</ModVersion>
 
-    <Description>Lua scripting bridge for Probably Stolen.</Description>
+    <Description>Lua scripting bridge for Probably Stolen.
+
+Mod repo https://github.com/Probably-Lua/ProbablyLua
+
+Lua mod template repo https://github.com/Probably-Lua/mod-template</Description>
 
     <GameVersions>
         <Version>0.46D</Version>
